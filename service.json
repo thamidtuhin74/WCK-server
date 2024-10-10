@@ -1,0 +1,185 @@
+[
+    {
+        "title": "Ecommerce Website",
+        "batch": "Top",
+        "rating": {
+            "avg": 4.7,
+            "number_of_ratings": 30
+        },
+        "key_features": [
+            "Fully Responsive Ecommerce Website",
+            "Mobile & User-friendly",
+            "Setup Different Shipping Methods & Tax Module",
+            "Add different functions depending on the client",
+            "E Bay, Amazon Affiliate system",
+            "Payment gateway integration and Order tracking"
+        ],
+        "reviews": [
+            {
+            "reviewer_name": "John Doe",
+            "rating": 5,
+            "comment": "Excellent service! The website was delivered on time and exceeded expectations."
+            },
+            {
+            "reviewer_name": "Jane Smith",
+            "rating": 4.5,
+            "comment": "Great website with all the necessary features. Highly recommended!"
+            },
+            {
+            "reviewer_name": "Mike Brown",
+            "rating": 4.7,
+            "comment": "Professional work, responsive design, and smooth user experience."
+            },
+            {
+            "reviewer_name": "Lisa Ray",
+            "rating": 4.8,
+            "comment": "Very satisfied with the ecommerce website. Perfect for my business."
+            },
+            {
+            "reviewer_name": "David Lee",
+            "rating": 4.6,
+            "comment": "Good service overall. Minor improvements were needed, but they were handled quickly."
+            }
+        ],
+        "portfolio": [
+            {
+            "project_name": "Fashion Store",
+            "url": "https://fashionstore.example.com",
+            "description": "A fully responsive ecommerce website for a fashion retailer."
+            },
+            {
+            "project_name": "Tech Gadgets",
+            "url": "https://techgadgets.example.com",
+            "description": "An ecommerce platform for selling the latest tech gadgets with integrated payment gateway."
+            },
+            {
+            "project_name": "Home Essentials",
+            "url": "https://homeessentials.example.com",
+            "description": "A user-friendly ecommerce site for selling home and lifestyle products."
+            }
+        ]
+        },
+    {
+        "title": "Personal Blog Website",
+        "batch": "Trending",
+        "rating": {
+            "avg": 4.9,
+            "number_of_ratings": 45
+        },
+        "key_features": [
+            "Custom Blog Layouts",
+            "SEO Optimized",
+            "Responsive Design",
+            "Easy Content Management",
+            "Social Media Integration",
+            "Newsletter Signup",
+            "Comment System"
+        ],
+        "reviews": [
+            {
+            "reviewer_name": "Alex Turner",
+            "rating": 5,
+            "comment": "Beautifully designed blog website, very intuitive and easy to use!"
+            },
+            {
+            "reviewer_name": "Emma Watson",
+            "rating": 4.8,
+            "comment": "Exactly what I wanted! The website looks professional and modern."
+            },
+            {
+            "reviewer_name": "Chris Evans",
+            "rating": 4.7,
+            "comment": "Great support and communication throughout the project!"
+            },
+            {
+            "reviewer_name": "Sophia Miller",
+            "rating": 4.9,
+            "comment": "The SEO improvements are really helping my blog grow. Great work!"
+            },
+            {
+            "reviewer_name": "Liam Johnson",
+            "rating": 4.6,
+            "comment": "Solid website with all the features I needed. Highly recommended!"
+            }
+        ],
+        "portfolio": [
+            {
+            "project_name": "Travel Tales",
+            "url": "https://traveltales.example.com",
+            "description": "A travel blog website with a custom layout and interactive map."
+            },
+            {
+            "project_name": "Healthy Living Blog",
+            "url": "https://healthylivingblog.example.com",
+            "description": "A lifestyle blog focused on health and wellness with an integrated newsletter."
+            },
+            {
+            "project_name": "Tech Insights",
+            "url": "https://techinsights.example.com",
+            "description": "A blog providing insights and tips on the latest in technology and gadgets."
+            }
+        ]
+    },
+    {
+        "title": "Business Portfolio Website",
+        "batch": "Best Seller",
+        "rating": {
+            "avg": 4.8,
+            "number_of_ratings": 50
+        },
+        "key_features": [
+            "Professional Design",
+            "Fully Customizable Layouts",
+            "Contact Form Integration",
+            "Fast Loading Speed",
+            "Mobile Friendly",
+            "SEO Ready",
+            "Google Analytics Integration"
+        ],
+        "reviews": [
+            {
+            "reviewer_name": "Michael Davis",
+            "rating": 5,
+            "comment": "Outstanding work! The website showcases my business perfectly."
+            },
+            {
+            "reviewer_name": "Sarah Taylor",
+            "rating": 4.7,
+            "comment": "Very happy with the service. My portfolio website looks fantastic!"
+            },
+            {
+            "reviewer_name": "James Wilson",
+            "rating": 4.9,
+            "comment": "Professional design and great communication throughout the process."
+            },
+            {
+            "reviewer_name": "Rachel Green",
+            "rating": 4.6,
+            "comment": "Excellent website. Just what I needed for my business portfolio."
+            },
+            {
+            "reviewer_name": "Mark Anderson",
+            "rating": 4.8,
+            "comment": "Great experience! The website design is sleek and professional."
+            }
+        ],
+        "portfolio": [
+            {
+            "project_name": "Creative Agency",
+            "url": "https://creativeagency.example.com",
+            "description": "A clean and modern portfolio website for a creative agency."
+            },
+            {
+            "project_name": "Consulting Firm",
+            "url": "https://consultingfirm.example.com",
+            "description": "A business portfolio site for showcasing services and team members."
+            },
+            {
+            "project_name": "Freelance Designer",
+            "url": "https://freelancedesigner.example.com",
+            "description": "A minimalist portfolio website for a freelance designer."
+            }
+        ]
+    }
+          
+]
