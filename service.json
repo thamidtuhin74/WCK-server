@@ -1,6 +1,7 @@
 [
     {
-        "title": "Ecommerce Website",
+        "id": 1,
+        "title": "Ecommerce Website Development",
         "batch": "Top",
         "rating": {
             "avg": 4.7,
@@ -14,53 +15,31 @@
             "E Bay, Amazon Affiliate system",
             "Payment gateway integration and Order tracking"
         ],
-        "reviews": [
-            {
-            "reviewer_name": "John Doe",
-            "rating": 5,
-            "comment": "Excellent service! The website was delivered on time and exceeded expectations."
-            },
-            {
-            "reviewer_name": "Jane Smith",
-            "rating": 4.5,
-            "comment": "Great website with all the necessary features. Highly recommended!"
-            },
-            {
-            "reviewer_name": "Mike Brown",
-            "rating": 4.7,
-            "comment": "Professional work, responsive design, and smooth user experience."
-            },
-            {
-            "reviewer_name": "Lisa Ray",
-            "rating": 4.8,
-            "comment": "Very satisfied with the ecommerce website. Perfect for my business."
-            },
-            {
-            "reviewer_name": "David Lee",
-            "rating": 4.6,
-            "comment": "Good service overall. Minor improvements were needed, but they were handled quickly."
-            }
-        ],
+        "service_description": "Our Ecommerce Website Development service offers a complete solution for setting up an online store. We create fully responsive, mobile-friendly websites with integrated payment gateways, shipping methods, and tax modules. Whether you're selling physical products, digital goods, or offering affiliate services with platforms like Amazon and eBay, our team customizes the site to meet your needs. We prioritize user-friendly designs to ensure an optimal shopping experience and integrate features like order tracking to enhance customer satisfaction. You can rely on us for professional, seamless ecommerce development that helps grow your business.",
         "portfolio": [
             {
-            "project_name": "Fashion Store",
-            "url": "https://fashionstore.example.com",
-            "description": "A fully responsive ecommerce website for a fashion retailer."
+                "project_name": "Fashion Store",
+                "url": "https://fashionstore.example.com",
+                "description": "A fully responsive ecommerce website for a fashion retailer.",
+                "image": "https://fashionstore.example.com/image.jpg"
             },
             {
-            "project_name": "Tech Gadgets",
-            "url": "https://techgadgets.example.com",
-            "description": "An ecommerce platform for selling the latest tech gadgets with integrated payment gateway."
+                "project_name": "Tech Gadgets",
+                "url": "https://techgadgets.example.com",
+                "description": "An ecommerce platform for selling the latest tech gadgets with integrated payment gateway.",
+                "image": "https://techgadgets.example.com/image.jpg"
             },
             {
-            "project_name": "Home Essentials",
-            "url": "https://homeessentials.example.com",
-            "description": "A user-friendly ecommerce site for selling home and lifestyle products."
+                "project_name": "Home Essentials",
+                "url": "https://homeessentials.example.com",
+                "description": "A user-friendly ecommerce site for selling home and lifestyle products.",
+                "image": "https://homeessentials.example.com/image.jpg"
             }
         ]
-        },
+    },
     {
-        "title": "Personal Blog Website",
+        "id": 2,
+        "title": "Portfolio Website Design",
         "batch": "Trending",
         "rating": {
             "avg": 4.9,
@@ -75,53 +54,31 @@
             "Newsletter Signup",
             "Comment System"
         ],
-        "reviews": [
-            {
-            "reviewer_name": "Alex Turner",
-            "rating": 5,
-            "comment": "Beautifully designed blog website, very intuitive and easy to use!"
-            },
-            {
-            "reviewer_name": "Emma Watson",
-            "rating": 4.8,
-            "comment": "Exactly what I wanted! The website looks professional and modern."
-            },
-            {
-            "reviewer_name": "Chris Evans",
-            "rating": 4.7,
-            "comment": "Great support and communication throughout the project!"
-            },
-            {
-            "reviewer_name": "Sophia Miller",
-            "rating": 4.9,
-            "comment": "The SEO improvements are really helping my blog grow. Great work!"
-            },
-            {
-            "reviewer_name": "Liam Johnson",
-            "rating": 4.6,
-            "comment": "Solid website with all the features I needed. Highly recommended!"
-            }
-        ],
+        "service_description": "Our Portfolio Website Design service is perfect for individuals and businesses looking to showcase their work in a professional, visually appealing way. We design custom layouts tailored to your niche, ensuring the site is fully responsive and optimized for SEO. You can easily manage your content, integrate social media, and even grow your audience through a built-in newsletter system. Whether you're a freelancer, artist, or company, our designs help you make a lasting impression. We ensure a user-friendly experience with features like a comment system and fast loading times.",
         "portfolio": [
             {
-            "project_name": "Travel Tales",
-            "url": "https://traveltales.example.com",
-            "description": "A travel blog website with a custom layout and interactive map."
+                "project_name": "Travel Tales",
+                "url": "https://traveltales.example.com",
+                "description": "A travel blog website with a custom layout and interactive map.",
+                "image": "https://traveltales.example.com/image.jpg"
             },
             {
-            "project_name": "Healthy Living Blog",
-            "url": "https://healthylivingblog.example.com",
-            "description": "A lifestyle blog focused on health and wellness with an integrated newsletter."
+                "project_name": "Healthy Living Blog",
+                "url": "https://healthylivingblog.example.com",
+                "description": "A lifestyle blog focused on health and wellness with an integrated newsletter.",
+                "image": "https://healthylivingblog.example.com/image.jpg"
             },
             {
-            "project_name": "Tech Insights",
-            "url": "https://techinsights.example.com",
-            "description": "A blog providing insights and tips on the latest in technology and gadgets."
+                "project_name": "Tech Insights",
+                "url": "https://techinsights.example.com",
+                "description": "A blog providing insights and tips on the latest in technology and gadgets.",
+                "image": "https://techinsights.example.com/image.jpg"
             }
         ]
     },
     {
-        "title": "Business Portfolio Website",
+        "id": 3,
+        "title": "Business Website Development",
         "batch": "Best Seller",
         "rating": {
             "avg": 4.8,
@@ -136,50 +93,65 @@
             "SEO Ready",
             "Google Analytics Integration"
         ],
-        "reviews": [
-            {
-            "reviewer_name": "Michael Davis",
-            "rating": 5,
-            "comment": "Outstanding work! The website showcases my business perfectly."
-            },
-            {
-            "reviewer_name": "Sarah Taylor",
-            "rating": 4.7,
-            "comment": "Very happy with the service. My portfolio website looks fantastic!"
-            },
-            {
-            "reviewer_name": "James Wilson",
-            "rating": 4.9,
-            "comment": "Professional design and great communication throughout the process."
-            },
-            {
-            "reviewer_name": "Rachel Green",
-            "rating": 4.6,
-            "comment": "Excellent website. Just what I needed for my business portfolio."
-            },
-            {
-            "reviewer_name": "Mark Anderson",
-            "rating": 4.8,
-            "comment": "Great experience! The website design is sleek and professional."
-            }
-        ],
+        "service_description": "Our Business Website Development service focuses on delivering professional, fully customizable websites that are tailored to your company’s needs. We build fast-loading, mobile-friendly sites with integrated contact forms, ensuring seamless communication with your clients. The websites are SEO-ready, making it easier for your business to be found online, and we incorporate Google Analytics for tracking performance. Whether you're looking to showcase your services, introduce your team, or generate leads, we deliver polished, professional websites that help drive business success.",
         "portfolio": [
             {
-            "project_name": "Creative Agency",
-            "url": "https://creativeagency.example.com",
-            "description": "A clean and modern portfolio website for a creative agency."
+                "project_name": "Creative Agency",
+                "url": "https://creativeagency.example.com",
+                "description": "A clean and modern portfolio website for a creative agency.",
+                "image": "https://creativeagency.example.com/image.jpg"
             },
             {
-            "project_name": "Consulting Firm",
-            "url": "https://consultingfirm.example.com",
-            "description": "A business portfolio site for showcasing services and team members."
+                "project_name": "Consulting Firm",
+                "url": "https://consultingfirm.example.com",
+                "description": "A business portfolio site for showcasing services and team members.",
+                "image": "https://consultingfirm.example.com/image.jpg"
             },
             {
-            "project_name": "Freelance Designer",
-            "url": "https://freelancedesigner.example.com",
-            "description": "A minimalist portfolio website for a freelance designer."
+                "project_name": "Freelance Designer",
+                "url": "https://freelancedesigner.example.com",
+                "description": "A minimalist portfolio website for a freelance designer.",
+                "image": "https://freelancedesigner.example.com/image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Corporate Website Development",
+        "batch": "Elite",
+        "rating": {
+            "avg": 4.9,
+            "number_of_ratings": 35
+        },
+        "key_features": [
+            "Professional and Modern Design",
+            "Custom Corporate Branding",
+            "SEO Optimized for Corporate Needs",
+            "Responsive Across All Devices",
+            "Multiple Language Support",
+            "Secure Contact Forms and Lead Generation",
+            "Google Maps and Location Integration"
+        ],
+        "service_description": "Our Corporate Website Development service is designed to deliver a polished and professional online presence for your business. We focus on creating modern, responsive designs that are fully tailored to your brand. From custom corporate branding to SEO optimization, we ensure your website communicates your values and services effectively. The site is secure, with features like encrypted contact forms for lead generation and integration with Google Maps for easy location access. We offer multiple language support to help you reach a global audience. Trust us to build a website that enhances your corporate identity and drives business growth.",
+        "portfolio": [
+            {
+                "project_name": "Tech Innovators",
+                "url": "https://techinnovators.example.com",
+                "description": "A corporate website for a leading tech solutions provider with multiple service pages and a blog.",
+                "image": "https://techinnovators.example.com/image.jpg"
+            },
+            {
+                "project_name": "Global Consulting",
+                "url": "https://globalconsulting.example.com",
+                "description": "A multi-language corporate website for an international consulting firm, complete with secure lead generation forms.",
+                "image": "https://globalconsulting.example.com/image.jpg"
+            },
+            {
+                "project_name": "Finance Corp",
+                "url": "https://financecorp.example.com",
+                "description": "A sleek, professional website for a finance and investment company, with integrated financial tools.",
+                "image": "https://financecorp.example.com/image.jpg"
             }
         ]
     }
-          
 ]

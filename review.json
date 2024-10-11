@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "reviewer_name": "John Doe",
+        "reviewer_designation": "CEO, Tech Innovators",
+        "reviewer_img": "https://example.com/john_doe.jpg",
+        "rating": 5,
+        "comment": "The ecommerce website built by this team has revolutionized our business. The design is clean and modern, and the functionality is seamless. It works flawlessly across all devices, and we've seen a significant increase in user engagement. Their communication was top-notch throughout the project. Highly recommend!",
+        "service_name": "Ecommerce Website Development"
+      },
+      {
+        "id": 2,
+        "reviewer_name": "Emily Davis",
+        "reviewer_designation": "Founder, Fashion Hub",
+        "reviewer_img": "https://example.com/emily_davis.jpg",
+        "rating": 4.7,
+        "comment": "This team truly knows how to deliver a top-notch ecommerce platform. Our online store has never looked so professional. The payment gateway integration and order tracking features work perfectly. We're thrilled with the end result and have already recommended them to several other businesses.",
+        "service_name": "Ecommerce Website Development"
+      },
+      {
+        "id": 3,
+        "reviewer_name": "David Wilson",
+        "reviewer_designation": "Owner, Coffee & Co.",
+        "reviewer_img": "https://example.com/david_wilson.jpg",
+        "rating": 4.7,
+        "comment": "Working with this team was an absolute pleasure. They designed a beautiful, user-friendly website for my coffee business that has helped us attract more customers online. The site is easy to navigate, and the online ordering system works like a charm. I’m very satisfied with their service.",
+        "service_name": "Ecommerce Website Development"
+      },
+      {
+        "id": 4,
+        "reviewer_name": "Lisa Brown",
+        "reviewer_designation": "Manager, Organic Foods",
+        "reviewer_img": "https://example.com/lisa_brown.jpg",
+        "rating": 4.8,
+        "comment": "Their team built a fantastic ecommerce website for us that is both functional and visually appealing. The product pages load quickly, and the checkout process is smooth and secure. Our sales have increased since launching the new site, and we couldn't be more pleased with the results!",
+        "service_name": "Ecommerce Website Development"
+      },
+      {
+        "id": 5,
+        "reviewer_name": "Michael Brown",
+        "reviewer_designation": "Entrepreneur, Startup Galaxy",
+        "reviewer_img": "https://example.com/michael_brown.jpg",
+        "rating": 4.9,
+        "comment": "I’m extremely happy with the portfolio website they delivered. From the layout to the functionality, everything is exactly how I envisioned. The site is fast, mobile-friendly, and optimized for SEO. Their attention to detail and ability to understand my brand was outstanding. A job well done!",
+        "service_name": "Portfolio Website Design"
+      },
+      {
+        "id": 6,
+        "reviewer_name": "Olivia Martinez",
+        "reviewer_designation": "Freelance Designer",
+        "reviewer_img": "https://example.com/olivia_martinez.jpg",
+        "rating": 5,
+        "comment": "This team went above and beyond to create a stunning portfolio website for my freelance design work. The site perfectly reflects my brand, and I’ve already gotten new clients because of it. The process was smooth, and they were open to all of my suggestions. Couldn't be happier!",
+        "service_name": "Portfolio Website Design"
+      },
+      {
+        "id": 7,
+        "reviewer_name": "Sophia White",
+        "reviewer_designation": "Artist, Sophia Creations",
+        "reviewer_img": "https://example.com/sophia_white.jpg",
+        "rating": 4.8,
+        "comment": "I'm absolutely thrilled with my new portfolio website! It showcases my art in a professional and visually stunning way. The layout is easy to navigate, and the design reflects my personal style. I've already had multiple inquiries from new clients since the website launch.",
+        "service_name": "Portfolio Website Design"
+      },
+      {
+        "id": 8,
+        "reviewer_name": "James Green",
+        "reviewer_designation": "Photographer",
+        "reviewer_img": "https://example.com/james_green.jpg",
+        "rating": 4.7,
+        "comment": "This team developed a beautiful portfolio website for my photography business. The images load quickly and look fantastic on both desktop and mobile devices. The website has helped me reach a larger audience, and I’ve received many compliments from clients on its design.",
+        "service_name": "Portfolio Website Design"
+      },
+      {
+        "id": 9,
+        "reviewer_name": "Sarah Thompson",
+        "reviewer_designation": "Digital Marketer, MediaVerse",
+        "reviewer_img": "https://example.com/sarah_thompson.jpg",
+        "rating": 4.6,
+        "comment": "The website development process was smooth, and the final product exceeded my expectations. The team was very professional and always available for feedback and adjustments. They implemented all the requested features and made sure everything was optimized for performance. I’m pleased with the result!",
+        "service_name": "Business Website Development"
+      },
+      {
+        "id": 10,
+        "reviewer_name": "James White",
+        "reviewer_designation": "Founder, Tech Solutions",
+        "reviewer_img": "https://example.com/james_white.jpg",
+        "rating": 4.8,
+        "comment": "I was looking for a website that could showcase our tech services in a professional way, and they delivered exactly that. The website looks modern, loads quickly, and has a seamless user experience. Their team is knowledgeable, and their service is top-notch. Definitely recommended!",
+        "service_name": "Business Website Development"
+      },
+      {
+        "id": 11,
+        "reviewer_name": "Rachel Adams",
+        "reviewer_designation": "Operations Manager, Prime Logistics",
+        "reviewer_img": "https://example.com/rachel_adams.jpg",
+        "rating": 4.9,
+        "comment": "The business website they created for us has been a game-changer. It's clean, professional, and easy to navigate. We’ve received positive feedback from our clients, and the website is helping us generate more leads. The development process was straightforward, and the team was very responsive.",
+        "service_name": "Business Website Development"
+      },
+      {
+        "id": 12,
+        "reviewer_name": "Daniel Taylor",
+        "reviewer_designation": "Co-Founder, Global Ventures",
+        "reviewer_img": "https://example.com/daniel_taylor.jpg",
+        "rating": 4.7,
+        "comment": "We wanted a professional website that clearly communicates our services to potential clients, and they nailed it. The design is sleek, and it’s easy for visitors to find the information they need. The team was great to work with and delivered on time. Very happy with the outcome!",
+        "service_name": "Business Website Development"
+      },
+      {
+        "id": 13,
+        "reviewer_name": "John Davis",
+        "reviewer_designation": "CEO, Tech Innovators",
+        "reviewer_img": "https://techinnovators.example.com/reviewer-john.jpg",
+        "rating": 5,
+        "comment": "We chose the Corporate Website Development service for our company's new website, and we couldn't be happier with the results. The design is sleek, professional, and perfectly captures our brand's essence. The site is responsive across all devices, and the integration with Google Maps for our multiple locations was seamless. The team went above and beyond to make sure every detail was spot on. We've received tons of positive feedback from our clients, and it has definitely improved our online presence.",
+        "service_name": "Corporate Website Development"
+    },
+    {
+        "id": 14,
+        "reviewer_name": "Sarah Lee",
+        "reviewer_designation": "Marketing Manager, Global Consulting",
+        "reviewer_img": "https://globalconsulting.example.com/reviewer-sarah.jpg",
+        "rating": 4.8,
+        "comment": "The Corporate Website Development service exceeded our expectations. The website they built for us is modern, easy to navigate, and optimized for SEO. Their attention to detail, especially in customizing our corporate branding, was outstanding. The multi-language feature is a game-changer for us, allowing us to serve clients in different regions. We also appreciate the secure lead generation forms, which have significantly increased our inquiries. Highly recommend this service to any company looking for a professional online presence.",
+        "service_name": "Corporate Website Development"
+    },
+    {
+        "id": 15,
+        "reviewer_name": "Michael Thompson",
+        "reviewer_designation": "COO, Finance Corp",
+        "reviewer_img": "https://financecorp.example.com/reviewer-michael.jpg",
+        "rating": 4.9,
+        "comment": "We hired the Corporate Website Development team to redesign our outdated finance website, and they delivered beyond our expectations. The new website is not only visually appealing but also incredibly functional. Our clients now have easy access to financial tools, and the site’s speed and performance have improved drastically. Their customer service was top-notch, always responsive to our needs and feedback. We’ve seen a noticeable uptick in both client engagement and lead generation since launching the new site.",
+        "service_name": "Corporate Website Development"
+    },
+    {
+        "id": 16,
+        "reviewer_name": "Emily Johnson",
+        "reviewer_designation": "Head of Communications, Green Energy Solutions",
+        "reviewer_img": "https://greenenergy.example.com/reviewer-emily.jpg",
+        "rating": 5,
+        "comment": "The Corporate Website Development service has been a game-changer for our company. From the custom design that reflects our eco-friendly mission to the SEO-optimized pages that have boosted our online visibility, everything was done with care and expertise. The responsive design makes sure our website looks great on all devices, and we’ve already seen an increase in client inquiries through the secure contact forms. The team was fantastic to work with, highly professional, and attentive to our needs throughout the process.",
+        "service_name": "Corporate Website Development"
+    }
+      
+]
+
+  

@@ -28,21 +28,34 @@ async function run() {
     // create DB 
     const database = client.db('webCodeSky');
     const serviceCollection = database.collection('serviceDB');
+    const reviewCollection = database.collection('reviewDB');
+
 
     app.get('/service', async(req, res)=>{
-        const cursor = serviceCollection.find();
-        const result = await cursor.toArray();
+        const service = serviceCollection.find();
+        const result = await service.toArray();
         res.send(result);
     })
-    app.get('/review', (req, res)=>{
-        res.send('All review are there')
+    app.get('/service/:id',async(req, res)=>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const singleService = await serviceCollection.findOne(query);
+      res.send(singleService);
     })
+
+    app.get('/review' , async(req, res)=>{
+      const review =  reviewCollection.find();
+      const reviewResult = await review.toArray();
+      res.send(reviewResult);
+    })
+    
+
+    // app.get('/review', (req, res)=>{
+    //     res.send('All review are there')
+    // })
     app.get('/post', (req, res)=>{
         res.send('All Post are there')
     })
-
-
-
 
 
     // Send a ping to confirm a successful connection
