@@ -29,12 +29,13 @@ async function run() {
     const database = client.db('webCodeSky');
     const serviceCollection = database.collection('serviceDB');
     const reviewCollection = database.collection('reviewDB');
+    const postCollection = database.collection('postDB');
 
 
     app.get('/service', async(req, res)=>{
         const service = serviceCollection.find();
-        const result = await service.toArray();
-        res.send(result);
+        const serviceResult = await service.toArray();
+        res.send(serviceResult);
     })
     app.get('/service/:id',async(req, res)=>{
       const id = req.params.id;
@@ -47,6 +48,18 @@ async function run() {
       const review =  reviewCollection.find();
       const reviewResult = await review.toArray();
       res.send(reviewResult);
+    })
+
+    app.get('/post', async(req, res)=>{
+      const posts = postCollection.find();
+      const postResult = await posts.toArray();
+      res.send(postResult);
+    })
+    app.get('/post/:id',async(req, res)=>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const singlePost = await postCollection.findOne(query);
+      res.send(singlePost);
     })
     
 
