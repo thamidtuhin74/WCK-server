@@ -66,9 +66,7 @@ async function run() {
     // app.get('/review', (req, res)=>{
     //     res.send('All review are there')
     // })
-    app.get('/post', (req, res)=>{
-        res.send('All Post are there')
-    })
+   
 
 
     // Send a ping to confirm a successful connection
